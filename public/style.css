@@ -53,6 +53,7 @@
     display: flex;
     align-items: center;
     float: right;
+    margin-bottom: 15px ;
 }
 
 .join {
